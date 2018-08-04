@@ -1,0 +1,201 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700');
+
+body
+{
+	margin:0;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.nav
+{
+	position:fixed;
+	display:inline;
+	overflow:hidden;
+	background-color:#333;
+	width:100%;
+	opacity:0.9;
+}
+	
+.logo
+{
+	font-family: 'Raleway', sans-serif;
+	display:inline;
+	float:left;
+	color:white;
+	font-size:40px;
+	font-weight:1000px;
+	margin-left: 15px;
+	margin-top:10px;
+	margin-bottom:5px;
+	cursor: pointer;
+}
+	
+.nav ul
+{
+		
+		float: right;
+		margin-left: 486px;
+		display:inline;
+}
+
+.nav ul li
+{
+	display: inline-block;
+	list-style-type: none;
+
+}
+ .nav ul li a
+ {
+	 font-family: 'Raleway', sans-serif;
+	 color: white;
+	 font-weight:900;
+	 text-decoration: none;
+	 font-size: 25px;
+	 padding:17px;
+	 
+	 
+ }
+ .homered
+ {
+	 background-color: tomato;
+	 padding: 30px 20px 10px 0px;
+}
+ 
+ .homeblack:hover
+ {
+	 background-color: blue;
+		
+ }
+ .divider
+ {
+	background-color:tomato;
+	height: 9px;
+	margin-top: 63px;
+ }
+.home
+{
+	background-image:url(img_4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 650px;
+	width: 100%;
+	margin-bottom: 25px;
+	padding-top: 5px;
+}
+.L1
+{
+	font-family: 'Raleway', sans-serif;
+	margin: 0% 0% 0% 5% ;
+	padding: 20% 0% 0% 0%;
+	color: #40bf79;
+	
+}
+.L1a
+{
+	color: #ffd480;
+	font-family: 'Raleway', sans-serif;
+}
+.L2
+{
+	font-family: 'Raleway', sans-serif;
+	margin: 0.5% 0% 0% 5%;
+	font-size: 82px;
+	background-color: rgba(0,0,0,0.2);
+	display:inline;
+	color: DodgerBlue;
+}
+.L3
+{
+	font-family: Oswald, sans-serif;
+	font-size:68px;
+	color: DodgerBlue;
+	margin: 0.5% 0% 0% 5%;
+	background-color: rgba(0,0,0,0.2);
+	display:inline;
+}
+ 	
+.button
+{
+	font-family: 'Raleway', sans-serif;
+	margin: 0% 0% 0% 0%;
+	background:yellow;
+	color: Black;
+	border: none;
+	font-size: 1.4em;
+	padding: 0 1em;
+	cursor: pointer;
+	outline:none;
+	font-weight: 1000;
+	height: 50px;
+	margin: 0% 0% 0% 5%;
+}
+#About
+{
+	height:1000px;
+	background-color:#fff;
+}
+
+.Skill
+{
+	font-family: 'Raleway', sans-serif;
+	margin: -20% 0% 0% 50%;
+	font-size: 1.6em;
+	padding-top: 100px;
+	font-weight: 400;	
+}
+#progress
+{
+	width: 600px;
+	background-color:#ddd;
+	margin: -2% 0% 0% 50%;
+	border-radius: 20px;
+	
+}
+#prg1
+{
+	width: 70%;
+	height: 10px;
+	border-radius: 40px;
+	background-color: #7171da;
+	margin-top: 40px;
+	
+	
+}
+#prg2
+{
+	width: 40%;
+	height: 10px;
+	border-radius: 50px;
+	background-color: #7171da;
+	margin-top: 40px;
+}
+#prg3
+{
+	width: 75%;
+	height: 10px;
+	border-radius: 50px;	
+	background-color: #7171da;
+	margin-top: 40px;	
+}
+#Logo
+{
+	margin-left: 100px;
+}
+#logos
+{
+	
+	width:100px;
+}
+#Portfolios
+{
+	height:800px;
+	background-color: #333;
+}
+#Resumes
+{
+	height:200px;
+	background-color:red;
+}
+

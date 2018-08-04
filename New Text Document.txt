@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>		Tarun Sharma Portfolio 		</title>
+
+</head>
+
+<body>
+
+<a href="#home">	Tarun.		</a>
+
+<ul>
+<li>	Home	</li>
+<li>	About	</li>
+<li>	Review	</li>
+<li>	Contact	</li>
+
+</ul>
+</body>
+</html>
+
+
+
